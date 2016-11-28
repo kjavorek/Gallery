@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Feritgal/config/view.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/public/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/bootstrap/app.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/.env</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/imageShow.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/bootstrap/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Controllers/IndexController.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Middleware/RedirectIfAuthenticated.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/myPhotos.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Kernel.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/thankyou.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Controllers/ImageShowController.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/form.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Controllers/FormController.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Photos.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/admin/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Controllers/MyPhotosController.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Feritgal/app/Http/Controllers/Auth/LoginController.php</file>
+        </group>
+    </open-files>
+</project-private>

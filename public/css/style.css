@@ -1,0 +1,118 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /*Margin bottom by footer height*/ 
+    margin-bottom: 60px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /*Set the fixed height of the footer here*/ 
+    height: 60px;
+    background-color: #f5f5f5;
+    padding: 20px 0;
+}
+
+/*.form-control{
+    width:50%; 
+}*/
+
+/* Custom page CSS
+-------------------------------------------------- */
+
+main { padding-bottom: 50px; }
+
+.gallery{
+    position:relative;
+    display:inline-block;
+    padding:10px;
+}
+.allImg{
+    height:294px; 
+    width:294px;
+}
+
+.chosenImg{
+    height:500px; 
+    width:500px;
+    margin-left:15px;
+}
+.modal-body{
+    text-align:center;
+}
+.btn{
+    margin-left: 10px;
+}
+
+#preview{
+    height:450px;
+    width:450px;
+}
+
+#showRight{
+   float:right;
+}
+
+.filterImg{
+   height:90px;
+   width:90px;   
+}
+
+.filterBtn{
+    padding:0;
+}
+
+.showRight{
+    float: right;
+    position: relative;
+    margin-left: 50px;
+    display:inline-block;
+}
+
+.displayInline{
+    display:inline-block;
+}
+.addImgTitle{
+    margin-top: 0px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+.btnSubmit{
+    display:inline-block;
+    float: right;
+    position: relative;
+    border: 10px solid #337ab7;;
+}
+
+th, td {
+    padding:2px;
+    font-size:20px;
+}
+
+#filterPreview{
+   height:200px;
+   width:200px; 
+}
+
+#input_photo{
+    display:none;
+}
+#inputPhoto{
+    padding:3px 20px;
+    line-height:1.42857143;
+    font-weight: 400;
+    margin-bottom: 0;
+    display: block;
+}
+
+#inputPhoto:hover{
+    background-color:#f2f2f2;
+    color: #333;
+    cursor:pointer;
+}
